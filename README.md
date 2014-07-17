@@ -1,14 +1,14 @@
-# asynquence
+# asynquence 让异步JavaScript代码按顺序执行
 
-A tiny (**~2.2k** minzipped) lib for promise-style async sequence flow-control.
+一个微型 (最小化压缩minzipped后只有 **~2.2k** ) 库lib for promise-style async sequence flow-control.
 
-## Explanation
+## Explanation 说明
 
 *asynquence* is a thin wrapper/abstraction on top of promises that makes using them for async flow control easier and more powerful.
 
 -----
 
-**For an in-depth discussion of *asynquence*, check out this [two-part](http://davidwalsh.name/asynquence-part-1) blog [post series](http://davidwalsh.name/asynquence-part-2), graciously hosted on [David Walsh](http://twitter.com/davidwalshblog)'s site.**
+**关于 *asynquence* 的深入讨论, 可以检出这个两篇文章组成的博客: [part-1](http://davidwalsh.name/asynquence-part-1) 和 [part-2](http://davidwalsh.name/asynquence-part-2), [在线内容](http://davidwalsh.name/asynquence-part-1) 可以通过 [David Walsh](http://twitter.com/davidwalshblog) 博客站点访问.**
 
 -----
 

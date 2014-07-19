@@ -12,7 +12,7 @@
 
 -----
 
-### TL;DR: By Example
+### 简要示例(TL;DR): By Example (Too Long ; Didn't Read)
 
 * [Sequences & gates](https://gist.github.com/getify/5959149), at a glance
 * Refactoring ["callback hell"-style to asynquence](https://gist.github.com/getify/8459026#file-gistfile3-js-L27-L39)

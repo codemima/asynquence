@@ -556,20 +556,20 @@ ASQ()
 
 ## Builds
 
-The core library file can be built (minified) with an included utility:
+核心库文件可以通过使用下面的工具来构建(并最小化);built (minified):
 
 ```
 ./build-core.js
 ```
 
-However, the recommended way to invoke this utility is via npm:
+建议通过 npm 方式来执行这个工具:
 
 ```
 npm run-script build-core
 ```
 
-## License
+## 授权信息(License)
 
-The code and all the documentation are released under the MIT license.
+所有的代码和文档,都使用 MIT license 上发布的授权协议,详情请参考:
 
 http://getify.mit-license.org/

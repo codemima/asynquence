@@ -2,7 +2,7 @@
 
 一个微型 (最小化压缩minzipped后只有 **~2.2k** ) 库lib for promise-style async sequence flow-control.
 
-## Explanation 说明
+## 说明(Explanation)
 
 *asynquence* is a thin wrapper/abstraction on top of promises that makes using them for async flow control easier and more powerful.
 
@@ -554,7 +554,7 @@ ASQ()
 .then(yay);
 ```
 
-## Builds
+## 构建(Builds)
 
 核心库文件可以通过使用下面的工具来构建(并最小化);built (minified):
 
